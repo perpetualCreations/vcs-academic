@@ -35,7 +35,7 @@ Image credit: SparkFun Electronics, CC BY-SA 4.0, 3rd Party Image Source, not un
 ## <a name="ol"></a>Ohm's Law
 Equation formula,
 
-```math
+```
 V=IR
 ```
 
