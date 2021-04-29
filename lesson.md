@@ -6,15 +6,15 @@ Commonly experienced in daily life, when interacting with machines that rely on 
 
 In this lesson, you will review the following concepts,
 
-* [Voltage, Resistance, and Current](##vrc)
+* [Properties of Current Flow](##vrc)
 * [Ohm's Law](##ol)
 * [Parts of a Basic Circuit](##pbc)
-* [Types of Circuits, and Circuit Analysis](#tcca)
+* [Types of Circuits and Circuit Analysis](#tcca)
 
 This lesson includes an activity.
 At the end, there will be a short writing prompt and set of mathematical problems for you to solve.
 
-## <a name="vrc"></a>Voltage, Resistance, and Current
+## <a name="vrc"></a>Properties of Current Flow
 Voltage, resistance, and current are properties of current flow.
 They can be attributed as follows,
 
@@ -32,7 +32,7 @@ the amount of water running through it the current, and the force acting against
 ![image of water analogy](https://cdn.sparkfun.com/r/600-600/assets/learn_tutorials/1/9/3/water-analogy.png)
 Image credit: SparkFun Electronics, CC BY-SA 4.0, 3rd Party Image Source, not under GPLv3
 
-## <a name="ol"></a>Ohm's Law
+## <a name="ol"></a>Law
 Equation formula,
 
 ```
@@ -91,7 +91,7 @@ Image credit: Wikimedia, Evan-Amos, Public Domain, 3rd Party Image Source, not u
 
 Image credit: Wikimedia, Justin Force, Public Domain, 3rd Party Image Source, not under GPLv3
 
-## <a name="tcca"></a>Types of Circuits, and Circuit Analysis
+## <a name="tcca"></a>Types of Circuits and Circuit Analysis
 There are three types of circuits.
 
 * A series circuit has one continuous path from the positive terminal of the source (battery) to the negative terminal of the source, with no branches.
