@@ -29,7 +29,8 @@ In subsequent sections, how these values are correlated to components in a circu
 For an analogy of these properties, current flow can be metaphorized as a river, where the force of the river is voltage,
 the amount of water running through it the current, and the force acting against the river water, resistance.
 
-![image of water analogy](https://cdn.sparkfun.com/r/600-600/assets/learn_tutorials/1/9/3/water-analogy.png)
+![image of water analogy](water-analogy.png)
+
 Image credit: SparkFun Electronics, CC BY-SA 4.0, 3rd Party Image Source, not under GPLv3
 
 ## <a name="ol"></a>Law
@@ -67,11 +68,11 @@ However, such technologies are beyond the scope of this lesson.
 
 The first battery was conceived by Alessandro Volta, in 1799, called the voltaic pile, consisting of a primitive stack of zinc and copper plates, sandwiched with cardboard soaked in saline water.
 
-![image of batteries](https://upload.wikimedia.org/wikipedia/commons/3/3b/Batteries.jpg)
+![image of batteries](Batteries.jpg)
 
 Image credit: Wikimedia, Brianiac, Public Domain, 3rd Party Image Source, not under GPLv3
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Battery_symbol2.svg/800px-Battery_symbol2.svg.png" alt="image of batteries in a circuit diagram" style="transform: rotate(90deg); width: 50%;">
+<img src="800px-Battery_symbol2.svg.png" alt="image of batteries in a circuit diagram" style="transform: rotate(90deg); width: 50%;">
 
 Image credit: Wikimedia, Jacek FH, Public Domain, 3rd Party Image Source, not under GPLv3
 
@@ -83,11 +84,11 @@ In the real world, these components are usually marked with 4 or 5 stripes, colo
 
 Resistors are like obstructions in a river stream, they slow the current down, reducing its force and throughput.
 
-![image of resistors](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Electronic-Axial-Lead-Resistors-Array.jpg/1280px-Electronic-Axial-Lead-Resistors-Array.jpg)
+![image of resistors](1280px-Electronic-Axial-Lead-Resistors-Array.jpg)
 
 Image credit: Wikimedia, Evan-Amos, Public Domain, 3rd Party Image Source, not under GPLv3
 
-![image of resistors in a circuit diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Resistors.svg/1920px-Resistors.svg.png)
+![image of resistors in a circuit diagram](1920px-Resistors.svg.png)
 
 Image credit: Wikimedia, Justin Force, Public Domain, 3rd Party Image Source, not under GPLv3
 
@@ -100,13 +101,13 @@ There are three types of circuits.
 
 Diagram of a series circuit:
 
-![image of series circuit](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Series_circuit.svg/1920px-Series_circuit.svg.png)
+![image of series circuit](Series_circuit.svg.png)
 
 Image credit: Wikimedia, Mets501, CC BY-SA 3.0, 3rd Party Image Source, not under GPLv3
 
 Diagram of a parallel circuit:
 
-![image of parallel circuit](https://www.allaboutcircuits.com/uploads/articles/simple-parallel-circuit-diagram.jpg)
+![image of parallel circuit](simple-parallel-circuit-diagram.webp)
 
 Image credit: AllAboutCircuits, [Design Science License](https://www.gnu.org/licenses/dsl.html), 3rd Party Image Source, not under GPLv3
 
